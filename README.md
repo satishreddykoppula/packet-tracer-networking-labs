@@ -70,3 +70,6 @@ The ping should return successful replies when both PCs:
 * Configuring a router
 * Connecting two separate networks
 * Troubleshooting IP and subnet errors
+## Lab Screenshot
+
+![Lab 1 PC Connectivity](lab1-pc-connectivity.png)
