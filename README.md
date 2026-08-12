@@ -72,4 +72,4 @@ The ping should return successful replies when both PCs:
 * Troubleshooting IP and subnet errors
 ## Lab Screenshot
 
-![Lab 1 PC Connectivity](lab1-pc-connectivity.png)
+![Lab 1 PC Connectivity](lab1-pc-connectivity.png.png)
